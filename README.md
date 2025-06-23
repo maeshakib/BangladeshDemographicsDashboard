@@ -21,3 +21,38 @@ Bangladesh Demographics Dashboard
     Explore Bangladesh Population Dashboard
   </button>
 </a>
+
+### Data Cleaning 
+
+#### Planned Data processing:
+- Handling Missing Values: I will check for and address missing values in the dataset.
+- Handling Duplicate Data: I will identify and remove duplicate rows based on unique identifiers to ensure each division and district’s data is unique
+- Data Type Conversion: I will convert numerical variables (population, area) to appropriate numeric data types, and verify the representation of categorical variables.
+  
+
+### Findings:
+- Missing Values: No missing values were reported, simplifying data cleaning efforts.
+- Duplicate Data: The data contains 0 duplicate values
+- Data Types: The dataset contains columns of integer (int64) and object data types, no further conversion needed.
+
+
+### Summary of Findings
+
+#### Total Population in 2022:
+- Bangladesh’s total population in 2022 reached 169.8 million, reflecting significant growth over the past three decades.
+Population Density Highlights:
+- Dhaka Division has the highest population density, at about 10,389.93 people per km² in 2022, indicating intense urbanization and pressure on infrastructure1.
+- Chattogram also shows high density but is less concentrated than Dhaka.
+- The top five districts by population density in 2022 are Dhaka, Narayanganj, Gazipur, Narsingdi, and Comilla, with Dhaka district leading at 10,390 people per km², followed by Narayanganj (5,900), Gazipur (3,009), Narsingdi (2,320), and Comilla (2,033).
+
+#### Area vs. Population (2022) Insights:
+- Area vs. population analysis shows Dhaka and Chattogram as outliers, with high populations relative to their land area, while divisions like Barisal and Sylhet have lower populations and larger land areas.
+- The least populated division in 2022 is Chattogram, and the least populated district is Bandarban,
+- Sylhet, with a moderate population and larger area, contrasts with the steep population rise in Dhaka and Chattogram, which underscores the impact of urbanization and migration.
+
+#### Population Growth Trends (1991–2022):
+- Dhaka: Highest growth at 854.8% (from 6.16M to 15.21M), driven by rapid urbanization and economic opportunities.
+- Chattogram: Significant growth at 610.4% (from 5.74M to 9.44M).
+- Rangpur and Rajshahi: Notable increases (563.8% and 509.2%, respectively).
+- Sylhet and Mymensingh: Moderate growth (232.0% and 147.7%).
+
