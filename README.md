@@ -24,13 +24,13 @@ Bangladesh Demographics Dashboard
 
 ### Data Cleaning 
 
-#### Planned Data processing:
+#### Planned Data cleaning:
 - Handling Missing Values: I will check for and address missing values in the dataset.
 - Handling Duplicate Data: I will identify and remove duplicate rows based on unique identifiers to ensure each division and district’s data is unique
 - Data Type Conversion: I will convert numerical variables (population, area) to appropriate numeric data types, and verify the representation of categorical variables.
   
 
-### Findings:
+### Findings during data cleaning :
 - Missing Values: No missing values were reported, simplifying data cleaning efforts.
 - Duplicate Data: The data contains 0 duplicate values
 - Data Types: The dataset contains columns of integer (int64) and object data types, no further conversion needed.
