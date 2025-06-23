@@ -1,5 +1,5 @@
 # Bangladesh Population Analytics Dashboard (1991–2022)
-Bangladesh Demographics Dashboard
+Bangladesh Demographics Dashboard, purpose of the analysis is to explore and visualize urban data from Bangladeshi cities, uncovering patterns in population, infrastructure, and socio-economic factors. Using the [City Perspectives: Bangladeshi Urban Data](https://www.kaggle.com/datasets/msjahid/bangladesh-districts-wise-population) dataset from Kaggle, the Tableau dashboard aims to provide actionable insights for urban planning and policy-making.
 
 <img align="left" alt="Home page | PBI" width="1000px" src="https://github.com/maeshakib/z_resources/blob/main/Pop%20Dashboard%20bangladesh.png" /> <br>
 <br>
