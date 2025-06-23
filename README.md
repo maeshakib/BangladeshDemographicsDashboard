@@ -30,13 +30,13 @@ Bangladesh Demographics Dashboard
 - Data Type Conversion: I will convert numerical variables (population, area) to appropriate numeric data types, and verify the representation of categorical variables.
   
 
-### Findings during data cleaning :
+### Key Findings on data cleaning :
 - Missing Values: No missing values were reported, simplifying data cleaning efforts.
 - Duplicate Data: The data contains 0 duplicate values
 - Data Types: The dataset contains columns of integer (int64) and object data types, no further conversion needed.
 
 
-### Summary of Findings
+### Critical Data Analysis Outcomes
 
 #### Total Population in 2022:
 - Bangladesh’s total population in 2022 reached 169.8 million, reflecting significant growth over the past three decades.
