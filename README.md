@@ -21,9 +21,14 @@ Bangladesh Demographics Dashboard
     Explore Bangladesh Population Dashboard
   </button>
 </a>
+
 ### Report: 
 <a href="https://github.com/maeshakib/z_resources/blob/7631611632eead95b11ac317f6f88a0ca6f6bc68/DAS%20602%20Tableau%20Assignment%20Population%20Dashboard%20report%20Student%20ID%20241001661.pdf">
-
+  <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
+   Report
+  </button>
+</a>
+ 
 ### Data Cleaning 
 
 #### Planned Data cleaning:
